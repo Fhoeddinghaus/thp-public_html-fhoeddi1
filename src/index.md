@@ -3,7 +3,7 @@
 @def hascode = true
 
 
-# Feli Hoeddinghaus
+# Feli Höddinghaus
 Institute for Theoretical Physics, University of Cologne
 
 ## Contact
