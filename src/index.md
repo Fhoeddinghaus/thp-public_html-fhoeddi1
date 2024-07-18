@@ -7,4 +7,9 @@
 Institute for Theoretical Physics, University of Cologne
 
 ## Contact
-Mail: [fhoeddi1@thp.uni-koeln.de](mailto:fhoeddi1@thp.uni-koeln.de)
+Mail: [f.hoeddinghaus@thp.uni-koeln.de](mailto:f.hoeddinghaus@thp.uni-koeln.de)
+
+Room: 3.321 Pohligstr. 3, 50969 Köln
+
+Group: [Gross](https://qi.uni-koeln.de)
+
