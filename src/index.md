@@ -1,9 +1,9 @@
-@def title = "Feli Emilia Höddinghaus"
+@def title = "Lilith Emilia Höddinghaus"
 @def hasmath = true
 @def hascode = true
 
 
-# Feli Emilia Höddinghaus
+# Lilith Emilia Höddinghaus
 Institute for Theoretical Physics, University of Cologne
 
 ## Contact
